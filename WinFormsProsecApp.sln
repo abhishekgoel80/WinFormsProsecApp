@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsProsecApp", "WinFormsProsecApp.csproj", "{9A1BDCC7-F840-4BFA-A697-796C011BC89B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BF7292DA-298C-4585-8FA5-A96AF0567693}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A1BDCC7-F840-4BFA-A697-796C011BC89B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A1BDCC7-F840-4BFA-A697-796C011BC89B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A1BDCC7-F840-4BFA-A697-796C011BC89B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A1BDCC7-F840-4BFA-A697-796C011BC89B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08034CEF-D057-4296-A5B9-035C2A6145C0}
+	EndGlobalSection
+EndGlobal
